@@ -1,0 +1,21 @@
+material_id,material_code,material_name,category,unit,theoretical_rate,is_active
+1,CEM_43,Cement 43 Grade,cement,bag,0.35,1
+2,CEM_53,Cement 53 Grade,cement,bag,0.32,1
+3,TMT_08,TMT Bar 8mm,steel,kg,,1
+4,TMT_12,TMT Bar 12mm,steel,kg,,1
+5,TMT_16,TMT Bar 16mm,steel,kg,,1
+6,SAND_MS,Manufactured Sand (M-Sand),aggregate,m3,0.55,1
+7,SAND_RV,River Sand,aggregate,m3,0.5,1
+8,AGG_20,20mm Aggregate,aggregate,m3,0.6,1
+9,AGG_10,10mm Aggregate,aggregate,m3,0.4,1
+10,BRK_CL,Clay Brick,masonry,pcs,55,1
+11,BLK_AAC,AAC Block,masonry,pcs,8,1
+12,RND_BAR,Mild Steel Rod,steel,kg,,1
+13,PLST_INT,Internal Plaster Sand-Cement Mix,finishing,m2,1.2,1
+14,PLST_EXT,External Plaster Sand-Cement Mix,finishing,m2,1.4,1
+15,TILE_FLR,Floor Tiles 600x600,finishing,m2,1.05,1
+16,TILE_WALL,Wall Tiles 300x600,finishing,m2,1.1,1
+17,WTR_PROOF,Liquid Waterproofing Compound,chemical,litre,0.08,1
+18,ADM_PLST,Plasticizer Admixture,chemical,litre,0.05,1
+19,FORM_OIL,Formwork Shutter Oil,consumable,litre,,1
+20,REBAR_TIE,Rebar Binding Wire,consumable,kg,0.8,1

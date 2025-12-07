@@ -1,0 +1,4 @@
+site_id,site_code,site_name,location,is_active
+1,SITE_01,Residential Tower A,Gurgaon,1
+2,SITE_02,Commercial Block B,Noida,1
+3,SITE_03,Villa Project Phase 1,Bangalore,1

@@ -1,0 +1,11 @@
+activity_id,activity_code,description,unit_of_work,boq_ref
+1,EXC_FDN,Excavation for Foundations,m3,BOQ_E1
+2,PCC_FDN,PCC for Footings,m3,BOQ_C1
+3,RCC_FDN,RCC Footings,m3,BOQ_C2
+4,RCC_COL,RCC Columns,m3,BOQ_C3
+5,RCC_SLAB_1F,RCC Slab 1st Floor,m3,BOQ_C4
+6,BRK_PLTH,Brickwork in Plinth,m3,BOQ_M1
+7,BRK_SUP_1F,Superstructure Brickwork 1st Floor,m3,BOQ_M2
+8,PLST_INT_1F,Internal Plaster 1st Floor,m2,BOQ_F1
+9,PLST_EXT_1F,External Plaster 1st Floor,m2,BOQ_F2
+10,TILE_FLR_1F,Floor Tiling 1st Floor,m2,BOQ_F3
